@@ -1,0 +1,7 @@
+config.py
+.vscode
+*.pyc
+
+submission
+
+!*.md
